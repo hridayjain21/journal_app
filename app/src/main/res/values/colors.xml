@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/end_color</color>
+    <color name="colorPrimaryDark">@color/end_color</color>
+    <color name="colorAccent">@color/end_color</color>
+    <color name="coloryelow">#F4C20F</color>
+    <color name="colormaroon">#E12557</color>
+    <color name="startbg_color">#3a1c71</color>
+    <color name="centre_color">#d76d77</color>
+    <color name="end_color">#ffaf7b</color>
+</resources>
